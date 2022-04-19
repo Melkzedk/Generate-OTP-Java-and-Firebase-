@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732768785389",
+    "firebase_url": "https://craiglist-9b4aa-default-rtdb.firebaseio.com",
+    "project_id": "craiglist-9b4aa",
+    "storage_bucket": "craiglist-9b4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732768785389:android:2ab217753186d1b1fbcde4",
+        "android_client_info": {
+          "package_name": "com.example.craiglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732768785389-2daqv83b0r31n9c79nu24gre9boifsp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWEHBQa2nPhQk-BRF3TF_Jyd8bvZdi10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732768785389-2daqv83b0r31n9c79nu24gre9boifsp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
